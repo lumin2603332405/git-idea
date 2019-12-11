@@ -6,4 +6,5 @@ package com.itheima.domain;
  * 日期：2019-12-11  17:20
  */
 public class User {
+    private String name;
 }
